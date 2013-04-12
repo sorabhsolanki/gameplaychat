@@ -1,0 +1,2 @@
+GameplayChat project is a sample group chatting project. It makes use of JGroups for group chatting.
+All the users get registered to one cluster and the they can chat among all other users which are already resgistered in the cluster.
